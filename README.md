@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KISTALA143
-- 👀 I’m interested in ...
+- 👀 I’m interested in webv development and cyber security.
 - 🌱 I’m currently learning programing in java and web developer
 - 💞️ I’m looking to collaborate on interships and projects.
 - 📫 You can reach me through twitter
